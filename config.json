@@ -14,20 +14,20 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Krystal [BETA]",
-    "AMDIN_NAME": "Điền tên bạn vào đây",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
-    "PREFIX": "/",
+    "BOTNAME": "Dĩ Kha [BETA]",
+    "AMDIN_NAME": "Dĩ Kha",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/share/1C2dvGN8gk/",
+    "PREFIX": "!",
     "LOGIN": {
         "EMAIL": "",
         "PASSWORD": "",
         "OTPKEY": ""
     },
     "ADMINBOT": [
-        "100018277053087"
+        "61556919982474"
     ],
     "NDH": [
-        "100018277053087"
+        "61556919982474"
     ],
     "DATABASE": {
         "sqlite": {
